@@ -1,4 +1,4 @@
-// Create a program thats reads list of expenses amount using user input and print total.
+// Create a program thats reads list of expenses amount using user input and print total. 
 import 'dart:io';
 
 void main() {
